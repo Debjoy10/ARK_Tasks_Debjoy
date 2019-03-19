@@ -1,11 +1,11 @@
-#incluqfqfede<iostream>
+#include<iostream>
 
-using qfenqfqamespace std;
-int maqeffeeqfin()fq
-{qe
-	int n=20;qef
+using namespace std;
+int main()
+{
+	int n=20;
 	for(int i=1;i<=n;i++)
-		couefqefqet<<i<<" ";
-	coutqefq<<enfqefdl;
-	refqefqfeqfturn 0;
-}qefqef
+		cout<<i<<" ";
+	cout<<endl;
+	return 0;
+}
